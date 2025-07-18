@@ -1,4 +1,4 @@
-Shopify Store Insights-Fetcher & Competitor Analysis:
+# Shopify Store Insights-Fetcher & Competitor Analysis:
 A complete Python backend solution for extracting e-commerce store insights from any Shopify-powered website without using their official API. The system also automatically finds and analyzes competitors, and persists all data in a SQL (SQLite) database.
 
 🚀 Features
